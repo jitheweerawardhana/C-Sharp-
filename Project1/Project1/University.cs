@@ -17,6 +17,7 @@ namespace Project1
         {
             Name = name;
             Location = location;
+            Department department = new List<Department>();
         }
 
         public void AddDepartment (Department dep)

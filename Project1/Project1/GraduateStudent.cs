@@ -6,8 +6,20 @@ using System.Threading.Tasks;
 
 namespace Project1
 {
-    public class GraduateStudent
+    public class GraduateStudent:Student
     {
-        public string ResearchTopics { get; set; }
+        private static string studentId;
+
+        public string ResearchTopic { get; set; }
+
+        public GraduateStudent(String name, String studentID , String major , String researchTopic):base( name,studentId,major)
+        {
+            ResearchTopic = researchTopic ;
+        }
+
+        public void ApplyForTA()
+        {
+            Console.WriteLine("Applyed For TA");
+        }
     }
 }

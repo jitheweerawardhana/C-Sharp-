@@ -14,10 +14,10 @@ namespace Project1
 
         public List<Course> courses { get; set; }
 
-        public Student(string name,string id,string major) 
+        public Student(string name,string studentId,string major) 
         {
             Name = name;
-            StudentId = id;
+            StudentId = studentId;
             Major = major;
         }
 

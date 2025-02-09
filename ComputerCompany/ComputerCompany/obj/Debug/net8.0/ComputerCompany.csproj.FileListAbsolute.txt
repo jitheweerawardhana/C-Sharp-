@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\obj\Debug\net8.0\ComputerCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\obj\Debug\net8.0\ComputerCompany.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\obj\Debug\net8.0\ComputerCompany.AssemblyInfo.cs
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\obj\Debug\net8.0\ComputerCompany.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\bin\Debug\net8.0\ComputerCompany.exe
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\bin\Debug\net8.0\ComputerCompany.deps.json
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\bin\Debug\net8.0\ComputerCompany.runtimeconfig.json
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\bin\Debug\net8.0\ComputerCompany.dll
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\bin\Debug\net8.0\ComputerCompany.pdb
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\obj\Debug\net8.0\ComputerCompany.dll
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\obj\Debug\net8.0\refint\ComputerCompany.dll
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\obj\Debug\net8.0\ComputerCompany.pdb
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\obj\Debug\net8.0\ComputerCompany.genruntimeconfig.cache
+C:\Users\Asus\Documents\GitHub\C#\ComputerCompany\ComputerCompany\obj\Debug\net8.0\ref\ComputerCompany.dll
